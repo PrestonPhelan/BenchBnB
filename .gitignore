@@ -15,3 +15,9 @@
 
 # Ignore Byebug command history file.
 .byebug_history
+
+
+# Ignore heavy JavaScript
+/node_modules/
+/bundle.js
+/bundle.js.map
